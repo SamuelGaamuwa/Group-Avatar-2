@@ -5,7 +5,8 @@ class PrimeChecker(object):
       return None
     else:
       self.number = number
-
+ def print_funtions(self):
+    print("these things happen")
     
   def is_prime(self):
     try:
